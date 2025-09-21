@@ -1,3 +1,7 @@
+
+<img width="500" height="239" alt="image" src="https://github.com/user-attachments/assets/6699e048-bb67-4c45-888c-40a2adfd7a8e" />
+
+
 ### Hi there, I'm Ijakaa 👋
 
 I'm a passionate developer always eager to build and learn!
