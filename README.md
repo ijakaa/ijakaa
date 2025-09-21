@@ -17,11 +17,11 @@ I'm passionate about building robust web and mobile applications using **PHP**, 
 
 ## 🏆 Featured Projects
 
-- [**Amazons**](https://github.com/amazons-net/Amazons)  
+- [**Amazons**](https://github.com/)  
   _A project built with a focus on delivering high-impact solutions.  
-- [**Wema Sacco**](https://github.com/ijakaa/wemasacco)  
+- [**Wema Sacco**](https://github.com/)  
   _A Laravel-based application for streamlined cooperative management._
-- [**RentEase App**](https://github.com/ijakaa/renteaseapp)  
+- [**RentEase App**](https://github.com/ijakaa/)  
   _A Flutter-powered platform making property rental easy and intuitive._
 
 ---
