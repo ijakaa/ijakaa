@@ -32,4 +32,4 @@ I'm a passionate developer always eager to build and learn!
 **How to reach me:**
 *   [LinkedIn](Your_LinkedIn_Profile_URL_Here)
 *   [Twitter](Your_Twitter_Profile_URL_Here)
-*   Your_Email@example.com
+*   ericijakaa4@gmail.com
